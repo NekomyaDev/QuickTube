@@ -26,10 +26,15 @@ Feature Description
 📊 AI-Powered YouTube Category & Niche Suggestion AI recommends the best category and niche based on video content. 
 
 ⏳ AI-Powered Content Schedule Recommendation AI analyzes and recommends the best video upload times.
+
 🎯 Channel Optimization Recommendations AI analyzes the channel's SEO shortcomings and provides recommendations.
+
 📌 Hashtag Suggestion: Determines the trending hashtags that best fit the video content.
+
 🚀 Competitive Analysis: Analyzes the top-performing videos on YouTube based on the topic entered.
+
 🔥 3. AI-Powered Image & Thumbnail Generation
 Feature Description
+
 🖼 AI-Powered Thumbnail Concept Suggestion AI creates the most suitable cover image (thumbnail) concepts for the video content.
 🎨 AI-Powered Thumbnail Generation AI produces original cover images with Stable Diffusion or similar models.
